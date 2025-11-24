@@ -12,11 +12,6 @@
 Theta Chain is an experimental, community-driven blockchain that decentralizes GPU and cloud compute.  
 It enables developers and researchers to run workloads such as AI model training, inference, and rendering across a global, trustless network.
 
-Key principles:
-- Open participation
-- Community governance
-- Fair launch (0% premine, 0% dev fee)
-
 ---
 
 ## Vision
@@ -44,13 +39,21 @@ Theta Chain simplifies high-performance computation by providing:
 **Dev Fee:** None  
 
 ### Emission Schedule
-| Block Range        | Reward      |
-|------------------|------------|
-| 1 – 100,000      | 100 THETA  |
-| 100,001 – 200,000| 80 THETA   |
-| 200,001 – 300,000| 70 THETA   |
-| …                | …          |
-| 980,000,001+     | 0.1 THETA  |
+
+| Block Range       | Reward per Block |
+|-----------------|----------------|
+| 1 – 100,000      | 100 THETA      |
+| 100,001 – 200,000| 80 THETA       |
+| 200,001 – 300,000| 70 THETA       |
+| 300,001 – 400,000| 50 THETA       |
+| 400,001 – 500,000| 40 THETA       |
+| 500,001 – 600,000| 30 THETA       |
+| 600,001 – 700,000| 20 THETA       |
+| 700,001 – 1,000,000| 15 THETA     |
+| 1,000,001 – 5,000,000| 10 THETA   |
+| 5,000,001 – 10,000,000| 5 THETA   |
+| 10,000,001 – 980,000,000| 3 THETA |
+| 980,000,001+     | 0.1 THETA      |
 
 ---
 
@@ -66,7 +69,7 @@ Theta Chain simplifies high-performance computation by providing:
 
 ## Use Cases
 Theta Chain is ideal for:
-- AI/ML developers needing GPU compute  
+- AI/ML developers leveraging GPU compute  
 - Researchers training large-scale models  
 - Distributed 3D rendering and simulations  
 - Data science workflows  
@@ -89,4 +92,4 @@ Use at your own discretion. Regulatory conditions may vary by region.
 ## Links
 - Website: [https://thetachain.live](https://thetachain.live)  
 - GitHub: [https://github.com/thetachain](https://github.com/thetachain)  
-- Documentation: *Coming soon*
+- Telegram / Discord: *Check website for links*  
