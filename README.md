@@ -1,174 +1,121 @@
-🚀 Theta Chain — Enhanced Overview
+# ██████████╗██╗  ██╗█████████╗ █████╗
+# ╚══██╔══╝██║  ██║╚══██╔══╝██╔══██╗
+#    ██║   ███████║   ██║   ███████║
+#    ██║   ██╔══██║   ██║   ██╔══██║
+#    ██║   ██║  ██║   ██║   ██║  ██║
+#    ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+#          THETA CHAIN
+#  Decentralized Compute for the AI Era
+
+[![GitHub stars](https://img.shields.io/github/stars/thetachain/thetachain?style=social)](https://github.com/thetachain/thetachain/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/thetachain/thetachain?style=social)](https://github.com/thetachain/thetachain/network/members)
+[![License](https://img.shields.io/github/license/thetachain/thetachain)](https://github.com/thetachain/thetachain/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/thetachain/thetachain)](https://github.com/thetachain/thetachain/issues)
+
+---
+
+## ██████╗ ███████╗██╗██╗     ███████╗██████╗
+## ██╔══██╗██╔════╝██║██║     ██╔════╝██╔══██╗
+## ██████╔╝█████╗  ██║██║     █████╗  ██████╔╝
+## ██╔═══╝ ██╔══╝  ██║██║     ██╔══╝  ██╔══██╗
+## ██║     ███████╗██║███████╗███████╗██║  ██║
+## ╚═╝     ╚══════╝╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+### Vision
+
+Theta Chain aims to democratize high-performance computation by providing:
+
+- Access to **decentralized GPU & cloud resources**  
+- Support for **self-improving AI workloads**  
+- Automated, **simplified processing pipelines**  
+- **Community governance**, fully open participation  
+
+---
+
+## ██████╗ ███████╗ ██████╗ ██████╗ ███████╗
+## ██╔══██╗██╔════╝██╔═══██╗██╔══██╗██╔════╝
+## ██████╔╝█████╗  ██║   ██║██████╔╝█████╗  
+## ██╔═══╝ ██╔══╝  ██║   ██║██╔══██╗██╔══╝  
+## ██║     ███████╗╚██████╔╝██║  ██║███████╗
+## ╚═╝     ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+### Key Features
+
+- **Decentralized Compute** – AI, ML, rendering, and data workloads  
+- **Fair Launch** – 0% premine, 0% dev fee, no pre-allocated tokens  
+- **Scalable Infrastructure** – dynamically adjusts to compute demand  
+- **Open Source & Community Governed** – transparent contributions and upgrades  
+
+---
+
+## ███████╗ ██████╗ ███╗   ███╗███████╗███╗   ██╗
+## ██╔════╝██╔═══██╗████╗ ████║██╔════╝████╗  ██║
+## █████╗  ██║   ██║██╔████╔██║█████╗  ██╔██╗ ██║
+## ██╔══╝  ██║   ██║██║╚██╔╝██║██╔══╝  ██║╚██╗██║
+## ██║     ╚██████╔╝██║ ╚═╝ ██║███████╗██║ ╚████║
+## ╚═╝      ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝  ╚═══╝
+### Tokenomics
+
+**Token:** THETA  
+**Max Supply:** ~100,000,000 THETA  
+**Mining:** Ethash (GPU-mineable)  
+**Premine:** None  
+**Dev Fee:** None  
+
+#### Emission Schedule
+
+| Block Range      | Reward      |
+|-----------------|------------|
+| 1 – 100,000     | 100 THETA  |
+| 100,001 – 200,000 | 80 THETA  |
+| 200,001 – 300,000 | 70 THETA  |
+| ...             | ...        |
+| 980,000,001+    | 0.1 THETA  |
+
+---
+
+## ███████╗ ██████╗ ███╗   ███╗████████╗███████╗
+## ██╔════╝██╔═══██╗████╗ ████║╚══██╔══╝██╔════╝
+## █████╗  ██║   ██║██╔████╔██║   ██║   █████╗  
+## ██╔══╝  ██║   ██║██║╚██╔╝██║   ██║   ██╔══╝  
+## ██║     ╚██████╔╝██║ ╚═╝ ██║   ██║   ███████╗
+## ╚═╝      ╚═════╝ ╚═╝     ╚═╝   ╚═╝   ╚══════╝
+### Technical Specifications
+
+| Parameter      | Value           |
+|----------------|----------------|
+| Chain ID       | 19049           |
+| Consensus      | Ethash          |
+| Block Time     | ~12.5 seconds   |
+| Uncle Rewards  | None            |
+
+---
+
+## ██████╗ ██╗   ██╗███████╗███████╗██╗   ██╗
+## ██╔══██╗██║   ██║██╔════╝██╔════╝██║   ██║
+## ██████╔╝██║   ██║█████╗  █████╗  ██║   ██║
+## ██╔═══╝ ██║   ██║██╔══╝  ██╔══╝  ██║   ██║
+## ██║     ╚██████╔╝███████╗███████╗╚██████╔╝
+## ╚═╝      ╚═════╝ ╚══════╝╚══════╝ ╚═════╝
+### Use Cases
+
+- AI/ML developers leveraging GPU compute  
+- Researchers training large-scale models  
+- Distributed 3D rendering and simulations  
+- Data science workflows  
+- Decentralized compute application development  
+
+---
+
+## ██████╗ ██╗  ██╗████████╗ █████╗
+## ██╔══██╗██║  ██║╚══██╔══╝██╔══██╗
+## ██████╔╝███████║   ██║   ███████║
+## ██╔═══╝ ██╔══██║   ██║   ██╔══██║
+## ██║     ██║  ██║   ██║   ██║  ██║
+## ╚═╝     ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+### Links
+
+- Website: [https://thetachain.live](https://thetachain.live)  
+- GitHub: [https://github.com/thetachain](https://github.com/thetachain)  
+- Documentation: *Coming soon*
+
+---
 
-Theta Chain is a community-driven, experimental blockchain that combines decentralized compute for AI workloads with wide participation and open governance. Its core mission is to minimize the “difficulty angle” — reducing friction in compute and data tasks.
-
-🔍 What Is Theta Chain’s Vision?
-
-AI + Compute Infrastructure: Theta Chain offers global, permissionless access to decentralized GPU and cloud resources. Developers can run AI model training, rendering, and computation at scale in a decentralized way.
-
-Self-Evolving Models: AI workloads are expected to improve over time — the network is designed so models adapt and optimize automatically.
-
-Automated Workflows: Complex tasks and pipelines become simpler. Theta Chain abstracts away infrastructure complexity, letting developers focus on building.
-
-Decentralized and Fair: The project emphasizes true decentralization: no pre-mines, no token pre-allocations, no private sale — the chain is fully community-powered. 
-Theta Chain
-
-✨ Key Features & Strengths
-
-Fair Launch:
-
-0% premine.
-
-No venture-cap control.
-
-Fully governed by its community. 
-Theta Chain
-
-Decentralized Compute:
-
-Provides access to distributed GPUs / cloud.
-
-Supports high-performance compute tasks. 
-Theta Chain
-
-Scalability:
-
-Designed to scale with demand.
-
-Use case: AI model training, graphics rendering, large data workloads. 
-Theta Chain
-
-Open Source:
-
-Community can contribute.
-
-Transparent governance and resource allocation. 
-Theta Chain
-
-💸 Tokenomics
-
-Ticker: THETA
-
-Max Supply: ~100,000,000 THETA 
-Theta Chain
-
-Emission Schedule:
-
-Block Range	Reward / Block
-1 → 100,000	100 THETA
-100,001 → 200,000	80 THETA
-200,001 → 300,000	70 THETA
-…	…
-980,000,001+	0.1 THETA 
-Theta Chain
-
-Mining: Yes — mineable token. 
-Theta Chain
-
-Developer Fee: None — 0% dev fee. 
-Theta Chain
-
-🔧 Technical & Chain Configuration
-
-Chain ID: 19049 
-Theta Chain
-
-Block Time: ~12.5 seconds 
-Theta Chain
-
-Consensus / Mining: Uses Ethash, which means traditional GPU miners can participate. 
-Theta Chain
-
-Uncle Rewards: Zero — no uncle block rewards. 
-Theta Chain
-
-📚 Why “Theta”? The Symbolism
-
-Theta (θ) in mathematics represents an angle — often used in trigonometry. Theta Chain uses this symbolism as a metaphor: it aims to reduce the “difficulty angle” of modern computational and AI challenges. In practice, this means lowering barriers to compute, making AI workloads more accessible, scalable, and efficient. 
-Theta Chain
-
-🧭 Use Cases & Target Audience
-
-AI Developers / Researchers: Need decentralized GPU resources for training or inference.
-
-Small Teams / Startups: Want to use computational power without building data centers.
-
-Graphics & Rendering: Studios could use Theta Chain for distributed rendering tasks.
-
-Data Scientists / ML Ops: Simplify pipelines by leveraging decentralized compute infrastructure.
-
-✅ Strengths & Differentiators
-
-Decentralized Compute — Not just a blockchain. It’s a compute platform.
-
-Fair Launch Ethos — No pre-mines or private token allocations = more egalitarian.
-
-Scalable & Adaptable — Designed to scale with AI demand.
-
-Open Governance — Community-driven, no centralized VC control.
-
-Ethash-Based Mining — Accessible to GPU miners.
-
-⚠️ Risks & Considerations
-
-Experimental Project: The site states it’s “experimental” and community-run. 
-Theta Chain
-
-Regulatory Risk: Use “at your own risk” — depending on country, regulations may affect participation. 
-Theta Chain
-
-Adoption Challenge: To fulfill its compute vision, Theta Chain needs wide adoption among AI users and providers.
-
-Competition: Other blockchain platforms offer compute or AI integrations — Theta Chain will need to differentiate strongly.
-
-🔗 Useful Links
-
-Website: thetachain.live 
-Theta Chain
-
-Source Code: (the site links to a GitHub: “https://github.com/thetachain”
-) 
-Theta Chain
-
-Token / Chain Specs: See “Tokenomics” section on site 
-Theta Chain
-
-💡 Recommendations for the Website
-
-To make the thetachain.live site more compelling and informative, here are some proposals:
-
-Live Metrics Dashboard
-
-Show real-time block time, TPS, number of miners, hash rate, and circulating THETA.
-
-Add charts: emission curve, token supply breakdown.
-
-Roadmap Section
-
-Clearly outline planned protocol milestones (mainnet, subchain support, governance upgrades).
-
-Include target dates / phases.
-
-Developer Portal
-
-Tutorials on how to deploy AI jobs / ML models using Theta Chain compute.
-
-API documentation, SDKs.
-
-Community & Governance
-
-Add governance model: how decisions are made, how people vote / propose.
-
-Add forums / chat links (Discord, Telegram, GitHub Discussions).
-
-Security & Risks
-
-Transparent note about risks (under construction, experimental).
-
-Risk disclosures and a “participate responsibly” message.
-
-Use Case Showcases
-
-Examples of existing or hypothetical compute workloads (AI training, video rendering, simulation).
-
-Testimonials or early adopter stories (if available).
