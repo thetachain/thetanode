@@ -33,9 +33,9 @@ Theta Chain simplifies high-performance computation by providing:
 
 ## Tokenomics
 **Token:** THETA  
-**Max Supply:** ~100,000,000 THETA  
+**Max Supply:** ~100,000,000 THETA  *note: (Reward reduced to 0.1 for rest of chain's life after 100 mil)  
 **Mining:** Ethash (GPU-mineable)  
-**Premine:** None  
+**Premine:** 10% (5% for development team  and 5% for project launches and airdrops)   
 **Dev Fee:** None  
 
 ### Emission Schedule
