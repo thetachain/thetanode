@@ -675,7 +675,7 @@ switch {
 	case blockNumber <= 700_000:
 		// Blocks 600,001 – 700,000: 20 coin per block
 		blockReward, _ = new(big.Int).SetString("20000000000000000000", 10) // 20e18 20 and 18 0
-	case blockNumber <= 1,000_000:
+	case blockNumber <= 1_000_000:
 		// Blocks 700,001 – 1,000,000: 15 coin per block
 		blockReward, _ = new(big.Int).SetString("20000000000000000000", 10) // 15e18 15 and 18 0
 	case blockNumber <= 5_000_000:
