@@ -23,7 +23,7 @@ import "github.com/ethereum/go-ethereum/common"
 var MainnetBootnodes = []string{
 	// Ethereum Foundation Go Bootnodes
 	"enode://1eaaeb771e7a801f12ecc9d65fddb3710015da3804b351c8d168921e109c12bed47361ba4cd3baffa2ae18a09daec0544f6797ea90bdd47879c87e2bea0025e0@104.131.47.170:30303",  // boot node digital occean Germany
-	"enode://1eaaeb771e7a801f12ecc9d65fddb3710015da3804b351c8d168921e109c12bed47361ba4cd3baffa2ae18a09daec0544f6797ea90bdd47879c87e2bea0025e0@104.131.47.170:30303", // boot node digital occean Australia
+	"enode://fb20a2c1484321f16e2b835be124cb21965f1c53f3947b4b4263f37b04cc3a11e02f8aa0ee5a0705dfd82ff0c68d404feebe17f9ace8fa04994e9d2979c3b5f8@138.197.139.153:30303", // boot node digital occean Australia
 }
 
 // SepoliaBootnodes are the enode URLs of the P2P bootstrap nodes running on the
